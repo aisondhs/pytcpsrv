@@ -10,3 +10,5 @@ a simple tcp server base on python tornato
   python server.py
 
   then run client.py to test the server response
+
+3.just read the code, it's easy to understand :)
