@@ -1,5 +1,5 @@
 # pytcpsrv
-a simple tcp server base on python tornato
+a simple tcp server base on python tornato and exchange the data by protobuf
 
 ## how to use
 
